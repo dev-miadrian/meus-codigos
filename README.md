@@ -13,3 +13,7 @@ git log
 # Javascript
 
 comando onclick
+element = document.querySelector(selectors); Onde:
+
+element é um objeto Element.
+selectors é uma string que contém um ou mais seletores CSS separados por vírgulas
