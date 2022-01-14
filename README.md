@@ -30,6 +30,6 @@ ssh-keygen -t rsa -b 4096 -C "meu email"
 ssh-keygen -t rsa -C "your_email@youremail.com"
 ssh -T git@github.com
 
-git config --global init.defaultbranch main
+
 
 
